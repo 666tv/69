@@ -7,12 +7,12 @@
 以/开头，存储卡的根目录
 
 #TV直播
-https://code.wixy.cn/lltv/by/raw/branch/main/live.txt
+https://git.acwing.com/66tv/by/-/raw/main/live.txt
 #AV集1
-https://code.wixy.cn/lltv/by/raw/branch/main/livex.m3u
+https://git.acwing.com/lltv/by/-/raw/main/livex.m3u
 #AV集2
-https://code.wixy.cn/lltv/by/raw/branch/main/avlive2.txt
+https://git.acwing.com/lltv/by/-/raw/main/avlive2.txt
 #AV直播
-https://code.wixy.cn/lltv/by/raw/branch/main/Adult.m3u
+https://git.acwing.com/lltv/by/-/raw/main/Adult.m3u
 #AV点播
-https://code.wixy.cn/lltv/by/raw/branch/main/listx.txt
+https://git.acwing.com/lltv/by/-/raw/main/listx.txt
