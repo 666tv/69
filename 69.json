@@ -270,15 +270,21 @@
       "filterable": 1
     },
     {
-      "key": "黄色仓库",
-      "name": "🔞黄色仓库",
+      "key": "星空福利",
+      "name": "🔞星空福利",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./json/黄色仓库.json"
+      "ext": {
+        "首页": "午夜剧场",
+        "简介": "简介：+col-pd\">&&</p>",
+        "线路数组": "#playlist&&</a>",
+        "副标题": "",
+        "播放数组": "stui-content__playlist clearfix&&</ul>",
+        "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
+        "搜索url": "https://www.nbhuiding.com/search/{wd}----------{pg}---.html",
+        "分类url": "https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]",
+        "分类": "午夜剧场$33#剧集$2#网红短剧$34#国产剧$13#国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28#动漫$4#国产动漫$29#日韩动漫$30#欧美动漫$31#其他动漫$32"
+      }
     },
     {
       "key": "777午夜精品",
@@ -323,26 +329,20 @@
       }
     },
     {
-      "key": "黑料001",
-      "name": "🔞黑料网",
+      "key": "qbl",
+      "name": "🔞千百撸",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": {
-        "副标题": "",
-        "直接播放": "1",
-        "数组": "class=\"cursor-pointer\" data-v-a51695bc&&</a>",
-        "图片": "http://api.btstu.cn/sjbz/?lx=meizi",
-        "标题": "title\" data-v-a51695bc>&&</div>",
+        "站名": "222av.me",
+        "主页url": "http://041920.222av.me",
+        "首页": "最新课程",
+        "数组": "col-sm-6 col-md-4 col-lg-4&&<div class=\"video-added\">",
         "链接": "href=\"&&\"",
-        "播放链接": "\"url\":\"&&\"",
-        "跳转播放数组": "config=&&pic",
-        "跳转播放链接": "url\":\"&&\"",
-        "分类url": "https://97.lutnnf.com/category/{cateId}/{catePg}.html",
-        "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
-        "分类值": "9&1&4&2&12&3&7&6&8&10&11"
+        "嗅探词": "http://m3u8.361lu.com/us.php?",
+        "分类url": "/videos/{cateId}?page={catePg};;z",
+        "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
+        "分类值": "/&3d&amateur&japanese&selfie&western"
       }
     },
     {
@@ -410,20 +410,37 @@
       "filterable": 0
     },
     {
-      "key": "星空福利",
-      "name": "🔞星空福利",
+      "key": "黄色仓库",
+      "name": "🔞黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "./json/黄色仓库.json"
+    },
+    {
+      "key": "黑料001",
+      "name": "🔞黑料网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "首页": "午夜剧场",
-        "简介": "简介：+col-pd\">&&</p>",
-        "线路数组": "#playlist&&</a>",
         "副标题": "",
-        "播放数组": "stui-content__playlist clearfix&&</ul>",
-        "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
-        "搜索url": "https://www.nbhuiding.com/search/{wd}----------{pg}---.html",
-        "分类url": "https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]",
-        "分类": "午夜剧场$33#剧集$2#网红短剧$34#国产剧$13#国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28#动漫$4#国产动漫$29#日韩动漫$30#欧美动漫$31#其他动漫$32"
+        "直接播放": "1",
+        "数组": "class=\"cursor-pointer\" data-v-a51695bc&&</a>",
+        "图片": "http://api.btstu.cn/sjbz/?lx=meizi",
+        "标题": "title\" data-v-a51695bc>&&</div>",
+        "链接": "href=\"&&\"",
+        "播放链接": "\"url\":\"&&\"",
+        "跳转播放数组": "config=&&pic",
+        "跳转播放链接": "url\":\"&&\"",
+        "分类url": "https://97.lutnnf.com/category/{cateId}/{catePg}.html",
+        "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
+        "分类值": "9&1&4&2&12&3&7&6&8&10&11"
       }
     },
     {
