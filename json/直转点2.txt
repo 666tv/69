@@ -2,22 +2,22 @@
 1
 
 #随机电影
-https://code.wixy.cn/lltv/by/raw/branch/main/随机电影.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/随机电影.txt
 
 #18+直播
-https://code.wixy.cn/lltv/by/raw/branch/main/18AV.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/18AV.txt
 
 #加勒比
-https://code.wixy.cn/lltv/by/raw/branch/main/加勒B.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/加勒B.txt
 
 #玉兔
-https://code.wixy.cn/lltv/by/raw/branch/main/玉兔.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/玉兔.txt
 
 #玩偶
-https://code.wixy.cn/lltv/by/raw/branch/main/玩ou.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/玩ou.txt
 
 #一本道
-https://code.wixy.cn/lltv/by/raw/branch/main/一本道.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/一本道.txt
 
 #一本正经道
-https://code.wixy.cn/lltv/by/raw/branch/main/一本正经道.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/一本正经道.txt
