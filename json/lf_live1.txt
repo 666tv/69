@@ -6,13 +6,11 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#TV直播
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/live.txt
 #AV集1
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/livex.m3u
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/livex.m3u
 #AV集2
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/avlive2.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/avlive2.txt
 #AV直播
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/Adult.m3u
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/Adult.m3u
 #AV点播
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/by/main/listx.txt
+https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/listx.txt
