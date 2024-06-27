@@ -2,7 +2,7 @@
       "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
       "副标题": "span class=\"pic-text text-right\">&&</p",
       "线路数组": "<li&&</li>",
-      "线路标题": "<h3> 私密专线 </h3> ",
+      "线路标题": "<h3> vip专线 </h3> ",
       "播放标题": ">&&</a",
       "搜索模式": "1",
       "搜索url": "/vodsearch/{wd}----------{pg}---.html",
