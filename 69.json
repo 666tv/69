@@ -3,7 +3,7 @@
 
 {
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
-//"spider":"./jar/pg.jar",
+"spider":"./jar/pg.jar",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -24,7 +24,7 @@
       "filterable": 0
     },
     {
-      "spider": "./jar/pg.jar"
+      //"spider": "./jar/pg.jar"
       "key": "我爱AV",
       "name": "🔞我爱AV",
       "type": 3,
@@ -36,7 +36,7 @@
       "ext": "./json/我爱AV.json"
     },
     {
-      "spider": "./jar/pg.jar"
+      //"spider": "./jar/pg.jar"
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
       "type": 3,
