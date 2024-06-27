@@ -24,6 +24,7 @@
       "filterable": 0
     },
     {
+      "spider": "./jar/pg.jar"
       "key": "我爱AV",
       "name": "🔞我爱AV",
       "type": 3,
@@ -32,10 +33,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/我爱AV.json",
-      "spider":"./jar/pg.jar"
+      "ext": "./json/我爱AV.json"
     },
     {
+      "spider": "./jar/pg.jar"
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
       "type": 3,
@@ -44,8 +45,7 @@
       "style": {
         "ratio": 1.7
       },
-      "ext": "./json/黄色仓库.json",
-      "spider":"./jar/pg.jar"
+      "ext": "./json/黄色仓库.json"
     },
     {
       "key": "csp_xBPQ_tt",
