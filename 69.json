@@ -24,10 +24,10 @@
     },
     {
       "key": "我爱AV",
-      "name": "🔞IAV",
+      "name": "🔞我爱AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -39,7 +39,7 @@
       "name": "🔞黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
       "style": {
         "ratio": 1.7
       },
