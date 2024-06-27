@@ -3,7 +3,7 @@
 
 {
 "spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
-//"spider":"./jar/pg.jar;md5;73b12022e75e5139dc39e9690727021c",
+//"spider":"./jar/pg.jar",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -28,24 +28,24 @@
       "name": "🔞我爱AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "jar":"./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/我爱AV.json",
-      "spider":"./jar/pg.jar;md5;73b12022e75e5139dc39e9690727021c"
+      "spider":"./jar/pg.jar"
     },
     {
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "jar":"./jar/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
       "ext": "./json/黄色仓库.json",
-      "spider":"./jar/pg.jar;md5;73b12022e75e5139dc39e9690727021c"
+      "spider":"./jar/pg.jar"
     },
     {
       "key": "csp_xBPQ_tt",
