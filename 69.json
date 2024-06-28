@@ -44,7 +44,7 @@
       "filterable":0,
       "ext":"./json/天天直播.json"
     },
-    /*
+/*
     {
       "key": "csp_xBPQ_日日夜夜",
       "name": "🔞日日夜夜",
@@ -56,7 +56,7 @@
       "filterable": 0,
       "ext": "{\"分类url\":\"https://15xxhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"亚洲$2k-yazhou#自拍偷拍$2k-zipaitoupai#超清传媒$2k-chaoqingchuanmei#3D动漫$2k-3Ddongman#欧美$2k-oumei#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
     },
-    */
+*/
     {
       "key":"drpy_js_色色",
       "name":"🔞涩涩直播",
@@ -97,6 +97,19 @@
       "filterable": 1,
       "ext": "./json/lf_live1.txt"
     },
+/*
+    {
+      "key": "csp_jy",
+      "name": "🔞聚优直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/juyou.json",
+      "jar": "./jar/xb.jar"
+    },
+*/
     {
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
@@ -119,19 +132,6 @@
       "filterable": 1,
       "ext": "./json/我爱AV.json"
     },
-    /*
-    {
-      "key": "csp_jy",
-      "name": "🔞聚优直播",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/juyou.json",
-      "jar": "./jar/xb.jar"
-    },
-    */
     {
       "key": "155",
       "name": "💕155(直连)",
