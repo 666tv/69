@@ -7,10 +7,12 @@
 以/开头，存储卡的根目录
 
 #AV集1
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/livex.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/69/main/json/18.txt
 #AV集2
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/avlive2.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/69/main/json/livex.m3u
+#AV集3
+https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/69/main/json/avlive2.txt
 #AV直播
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/Adult.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/69/main/json/Adult.m3u
 #AV点播
-https://gitdl.cn/https://raw.githubusercontent.com/666tv/69/main/json/listx.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/69/main/json/listx.txt
