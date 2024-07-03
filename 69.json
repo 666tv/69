@@ -113,9 +113,9 @@
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
       "type": 3,
+      "spider":"./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "api": "csp_XBPQ",
       "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
-      "spider":"./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "style": {
         "ratio": 1.7
       },
@@ -125,9 +125,9 @@
       "key": "我爱AV",
       "name": "🔞我爱AV",
       "type": 3,
+      "spider":"./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "api": "csp_XBPQ",
       "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
-      "spider":"./jar/pgdm.jar;md5;bab661adffeedc3e149f845bdde3b6a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
