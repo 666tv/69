@@ -115,7 +115,7 @@
       "name": "🔞黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
       "style": {
         "ratio": 1.7
       },
@@ -126,7 +126,7 @@
       "name": "🔞我爱AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
