@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider":"./jar/pg240628.jar",
+//"spider":"./jar/pg240628.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -111,24 +111,24 @@
     },
 */
     {
+      "spider":"./jar/pg240628.jar",
       "key": "黄色仓库",
       "name": "🔞黄色仓库",
       "type": 3,
-      //"spider":"./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "jar":"./jar/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
       "ext": "./json/黄色仓库.json"
     },
     {
+      "spider":"./jar/pg240628.jar",
       "key": "我爱AV",
       "name": "🔞我爱AV",
       "type": 3,
-      //"spider":"./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "jar":"./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
