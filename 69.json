@@ -24,7 +24,7 @@
     },
     {
       "key": "lltv_iKun",
-      "name": "🔞里番动漫",
+      "name": "🔞动漫伦理",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "playurl": "json:https://www.ikdmjx.com/?url=",
@@ -32,7 +32,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "里番动漫"
+        "里番动漫",
+        "伦理片"
       ]
     },
     {
