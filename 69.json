@@ -23,6 +23,19 @@
       "filterable": 0
     },
     {
+      "key": "lltv_iKun",
+      "name": "🔞里番动漫",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "playurl": "json:https://www.ikdmjx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "里番动漫"
+      ]
+    },
+    {
       "key": "csp_xBPQ_tt",
       "name": "🔞天天综合",
       "type": 3,
