@@ -135,6 +135,17 @@
       "ext": "./json/黄色仓库.json"
     },
     {
+      "key": "黄色仓库2",
+      "name": "🔞黄色仓库2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "./json/黄色仓库2.json"
+    },
+    {
       "key": "我爱AV",
       "name": "🔞我爱AV",
       "type": 3,
