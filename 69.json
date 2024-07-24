@@ -47,7 +47,7 @@
       "ext": "./json/天天综合.json"
     },
     {
-      "key":"csp_xBPQ_天天直播直播",
+      "key":"csp_xBPQ_天天直播",
       "name":"🔞天天直播",
       "type":3,
       "api":"csp_xBPQ",
@@ -56,6 +56,28 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"./json/天天直播.json"
+    },
+    {
+      "key": "csp_xBPQ_ttyd",
+      "name": "🔞天天综合移动",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/天天综合移动.json"
+    },
+    {
+      "key":"csp_xBPQ_天天直播移动",
+      "name":"🔞天天直播移动",
+      "type":3,
+      "api":"csp_xBPQ",
+      "jar":"./jar/xb.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/天天直播移动.json"
     },
 /*
     {
