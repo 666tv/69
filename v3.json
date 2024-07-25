@@ -133,6 +133,7 @@
       "name": "NG💙弹幕",
       "type": 3,
       "api": "csp_NanGua",
+      "jar": "./jar/pg240722.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "null$$$1"
@@ -142,6 +143,7 @@
       "name": "TT💙弹幕",
       "type": 3,
       "api": "csp_TTian",
+      "jar": "./jar/pg240722.jar",
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
 	},
     {
@@ -368,6 +370,7 @@
       "name": "66⚡️LB",
       "type": 3,
       "api": "csp_Lib",
+      "jar": "./jar/qiaoji240620.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -426,6 +429,7 @@
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Nmvod",
+      "jar": "./jar/qiaoji240620.jar",
       "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
     },
     {
@@ -437,7 +441,7 @@
     },
     {
       "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️QQ",
+      "name": "66⚡️QQ*",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -460,6 +464,7 @@
       "name": "66⚡️RB",
       "type": 3,
       "api": "csp_TTian",
+      "jar": "./jar/qiaoji240620.jar",
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -475,6 +480,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_ShiLiuDY",
+      "jar": "./jar/qiaoji240620.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -520,7 +526,8 @@
       "key": "lltv_月亮-巧技",
       "name": "66⚡️YL",
       "type": 3,
-      "api": "csp_Ylys"
+      "api": "csp_Ylys",
+      "jar": "./jar/qiaoji240620.jar"
     },
     {
       "key": "lltv_桜之空影视-欧歌",
@@ -534,6 +541,7 @@
       "name": "66⚡️ZX",
       "type": 3,
       "api": "csp_Zxzj",
+      "jar": "./jar/qiaoji240620.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
@@ -570,19 +578,22 @@
       "key": "全网看",
       "name": "66🐼QW",
       "type": 3,
-      "api": "csp_Quanwk"
+      "api": "csp_Quanwk",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"
     },
     {
       "key": "素白白",
       "name": "66🐼SB",
       "type": 3,
-      "api": "csp_SuBaiBai"
+      "api": "csp_SuBaiBai",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"
     },
     {
       "key": "新视觉",
       "name": "66🐼SJ",
       "type": 3,
       "api": "csp_Xinsj",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -592,6 +603,7 @@
       "name": "66🐼VH",
       "type": 3,
       "api": "csp_Vidhub2",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -601,6 +613,7 @@
       "name": "66🐼XD",
       "type": 3,
       "api": "csp_Xdys",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -611,6 +624,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_BookTing",
+      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
       "searchable": 0,
       "ext": "https://m.ting275.com",
       "style": {
