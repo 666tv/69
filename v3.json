@@ -184,6 +184,7 @@
       "order_num": 210,
       "ext": "./json/采集之王.js?type=url&params=./json/采集静态.json"
     },
+    /*
     {
       "key": "lltv_采集之王-PizazzGY-天天",
       "name": "66⚡️CJ2",
@@ -193,6 +194,7 @@
       "quickSearch": 1,
       "ext": "./js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
     },
+    */
     {
       "key": "lltv_CM",
       "name": "66⚡️CM",
