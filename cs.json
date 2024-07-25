@@ -47,7 +47,6 @@
       "name": "南瓜影视",
       "type": 3,
       "api": "csp_WexNgys",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -57,7 +56,6 @@
       "name": "天天影视",
       "type": 3,
       "api": "csp_AppTT",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +65,6 @@
       "name": "热播影视",
       "type": 3,
       "api": "csp_AppRB",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
