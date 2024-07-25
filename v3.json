@@ -177,7 +177,7 @@
       "key": "lltv_采集之王-天天",
       "name": "66⚡️CJ",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -191,7 +191,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
+      "ext": "./json/采集之王.js?type=url&params=./json/采集静态.json$1$1"
     },
     {
       "key": "lltv_CM",
