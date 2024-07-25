@@ -144,6 +144,13 @@
       "ext": "./dongman/喵次元.js"
     },
     {
+      "key": "lltv_驴番动漫",
+      "name": "驴番┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/驴番动漫.js"
+    },
+    {
       "key": "lltv_妮可",
       "name": "妮可┃动漫",
       "type": 3,
