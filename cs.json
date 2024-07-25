@@ -47,7 +47,7 @@
       "name": "南瓜影视",
       "type": 3,
       "api": "csp_WexNgys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -57,7 +57,7 @@
       "name": "天天影视",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +67,7 @@
       "name": "热播影视",
       "type": 3,
       "api": "csp_AppRB",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -77,7 +77,7 @@
       "name": "追剧影视",
       "type": 3,
       "api": "csp_AppZJ",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -87,7 +87,7 @@
       "name": "厂长资源",
       "type": 3,
       "api": "csp_Czsapp",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -98,7 +98,7 @@
       "name": "低端影视",
       "type": 3,
       "api": "csp_Ddys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -108,7 +108,7 @@
       "name": "快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -118,7 +118,7 @@
       "name": "苹果影视",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -128,7 +128,7 @@
       "name": "剧圈影视",
       "type": 3,
       "api": "csp_Juqq",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -138,7 +138,7 @@
       "name": "毛驴影视",
       "type": 3,
       "api": "csp_MaoLv",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -148,7 +148,7 @@
       "name": "可可影视",
       "type": 3,
       "api": "csp_Keke",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -158,7 +158,7 @@
       "name": "圣城影视",
       "type": 3,
       "api": "csp_SC1080",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -168,7 +168,7 @@
       "name": "疯狗影视",
       "type": 3,
       "api": "csp_FengGo",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -178,7 +178,7 @@
       "name": "全网影视",
       "type": 3,
       "api": "csp_Quanwk",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -188,7 +188,7 @@
       "name": "最新影视",
       "type": 3,
       "api": "csp_Zx1080",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -198,7 +198,7 @@
       "name": "爱看影视",
       "type": 3,
       "api": "csp_Ikan",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -208,7 +208,7 @@
       "name": "桃子影视",
       "type": 3,
       "api": "csp_Taozi",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -218,7 +218,7 @@
       "name": "FreeOK",
       "type": 3,
       "api": "csp_FreeOK",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -228,7 +228,7 @@
       "name": "兄弟影视",
       "type": 3,
       "api": "csp_Wexxiongdiys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -237,7 +237,7 @@
       "name": "酷看影视",
       "type": 3,
       "api": "csp_Wexkukantv",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -246,7 +246,7 @@
       "name": "明日影视",
       "type": 3,
       "api": "csp_WexMingriys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -255,7 +255,7 @@
       "name": "腐剧视频",
       "type": 3,
       "api": "csp_WexFujutv",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -264,7 +264,7 @@
       "name": "啾啾影视",
       "type": 3,
       "api": "csp_Wexjiohub",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -273,7 +273,7 @@
       "name": "星辰影视",
       "type": 3,
       "api": "csp_WexXingchen",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -282,7 +282,7 @@
       "name": "农民影视",
       "type": 3,
       "api": "csp_WexNmys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -291,7 +291,7 @@
       "name": "立播影视",
       "type": 3,
       "api": "csp_Wexlibhd",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -300,7 +300,7 @@
       "name": "纯享影视",
       "type": 3,
       "api": "csp_WexF4kvm",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -309,7 +309,7 @@
       "name": "两个磁力",
       "type": 3,
       "api": "csp_Wexbttwo",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -318,7 +318,7 @@
       "name": "骚火影视",
       "type": 3,
       "api": "csp_Wexsaohuo",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -327,7 +327,7 @@
       "name": "在线之家",
       "type": 3,
       "api": "csp_Wexzxzj",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -336,7 +336,7 @@
       "name": "愉悦影视",
       "type": 3,
       "api": "csp_Wexyuyueys",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -345,7 +345,7 @@
       "name": "良品短剧",
       "type": 3,
       "api": "csp_Wexduanjuvip",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -354,7 +354,7 @@
       "name": "看看影视",
       "type": 3,
       "api": "csp_WebIV",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -364,7 +364,7 @@
       "name": "大米星球",
       "type": 3,
       "api": "csp_AppDaMi",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -374,7 +374,7 @@
       "name": "铁剧影视",
       "type": 3,
       "api": "csp_AppBr",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -384,7 +384,7 @@
       "name": "笙歌影视",
       "type": 3,
       "api": "csp_AppYY",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
@@ -394,7 +394,7 @@
       "name": "不卡影视",
       "type": 3,
       "api": "csp_App",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
@@ -405,7 +405,7 @@
       "name": "摩托影视",
       "type": 3,
       "api": "csp_App",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -416,7 +416,7 @@
       "name": "星芽短剧",
       "type": 3,
       "api": "csp_AppXY",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -426,7 +426,7 @@
       "name": "视频库",
       "type": 3,
       "api": "csp_WebVidHub",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -437,7 +437,7 @@
       "name": "视频库",
       "type": 3,
       "api": "csp_WebVidHub",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -448,7 +448,7 @@
       "name": "达达龟",
       "type": 3,
       "api": "csp_Dadag",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -458,7 +458,7 @@
       "name": "素白白",
       "type": 3,
       "api": "csp_Subaibai",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "changeable": 1
     },
@@ -467,7 +467,7 @@
       "name": "机器人",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -488,7 +488,7 @@
       "name": "电影牛",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/PizazzGY240726.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
