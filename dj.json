@@ -19,6 +19,15 @@
       "changeable": 1
     },
     {
+      "key": "lltv_星芽短剧",
+      "name": "星芽┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "lltv_夜猫子短剧-夜猫",
       "name": "夜猫┃短剧",
       "type": 3,
