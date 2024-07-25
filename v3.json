@@ -177,7 +177,7 @@
       "key": "lltv_采集之王-天天",
       "name": "66⚡️CJ",
       "type": 3,
-      "api": "./js/libs/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
