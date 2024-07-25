@@ -7,15 +7,16 @@
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
+
 "sites":[ 
     {
       "key": "测试",
       "name": "~~~~~~~~~",
       "type": 3,
       "api": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "ext": ""
     },
     {
@@ -39,6 +40,458 @@
       "changeable": 1,
       "ext": "./json/jianpian.json$$$1",
       "timeout":60
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_WexNgys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天天影视",
+      "name": "天天影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "热播影视",
+      "name": "热播影视",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追剧影视",
+      "name": "追剧影视",
+      "type": 3,
+      "api": "csp_AppZJ",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "厂长资源",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "低端影视",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快看影视",
+      "name": "快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "剧圈影视",
+      "name": "剧圈影视",
+      "type": 3,
+      "api": "csp_Juqq",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "毛驴影视",
+      "name": "毛驴影视",
+      "type": 3,
+      "api": "csp_MaoLv",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "可可影视",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Keke",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "圣城影视",
+      "name": "圣城影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "疯狗影视",
+      "name": "疯狗影视",
+      "type": 3,
+      "api": "csp_FengGo",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "全网影视",
+      "name": "全网影视",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "最新影视",
+      "name": "最新影视",
+      "type": 3,
+      "api": "csp_Zx1080",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱看影视",
+      "name": "爱看影视",
+      "type": 3,
+      "api": "csp_Ikan",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "桃子影视",
+      "name": "桃子影视",
+      "type": 3,
+      "api": "csp_Taozi",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "FreeOK",
+      "name": "FreeOK",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兄弟影视",
+      "name": "兄弟影视",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "酷看影视",
+      "name": "酷看影视",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "明日影视",
+      "name": "明日影视",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "腐剧视频",
+      "name": "腐剧视频",
+      "type": 3,
+      "api": "csp_WexFujutv",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "啾啾影视",
+      "name": "啾啾影视",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星辰影视",
+      "name": "星辰影视",
+      "type": 3,
+      "api": "csp_WexXingchen",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "农民影视",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "立播影视",
+      "name": "立播影视",
+      "type": 3,
+      "api": "csp_Wexlibhd",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "纯享影视",
+      "name": "纯享影视",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "两个磁力",
+      "name": "两个磁力",
+      "type": 3,
+      "api": "csp_Wexbttwo",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "骚火影视",
+      "name": "骚火影视",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "在线之家",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Wexzxzj",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "愉悦影视",
+      "name": "愉悦影视",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "良品短剧",
+      "name": "良品短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "看看影视",
+      "name": "看看影视",
+      "type": 3,
+      "api": "csp_WebIV",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大米星球",
+      "name": "大米星球",
+      "type": 3,
+      "api": "csp_AppDaMi",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "铁剧影视",
+      "name": "铁剧影视",
+      "type": 3,
+      "api": "csp_AppBr",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "笙歌影视",
+      "name": "笙歌影视",
+      "type": 3,
+      "api": "csp_AppYY",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "不卡影视",
+      "name": "不卡影视",
+      "type": 3,
+      "api": "csp_App",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
+    },
+    {
+      "key": "摩托影视",
+      "name": "摩托影视",
+      "type": 3,
+      "api": "csp_App",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "视频库",
+      "name": "视频库",
+      "type": 3,
+      "api": "csp_WebVidHub",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://vidhub1.cc"
+    },
+    {
+      "key": "视频库",
+      "name": "视频库",
+      "type": 3,
+      "api": "csp_WebVidHub",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://vidhub1.cc"
+    },
+    {
+      "key": "达达龟",
+      "name": "达达龟",
+      "type": 3,
+      "api": "csp_Dadag",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "机器人",
+      "name": "机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "新视觉",
+      "name": "新视觉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/新视觉.json"
+    },
+    {
+      "key": "电影牛",
+      "name": "电影牛",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/PizazzGY240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/电影牛.json"
     },
     {
       "key": "驴番动漫",
