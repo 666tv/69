@@ -10,67 +10,13 @@
 
 "sites": [
 
-    {
-      "key": "lltv_柠檬-巧技",
-      "name": "66⚡️NM*",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "jar": "./jar/qiaoji240620.jar",
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
-    },
-    {
-      "key": "lltv_爱看影视",
-      "name": "66⚡️AK",
-      "type": 3,
-      "api": "csp_Ikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_两个磁力",
-      "name": "66⚡️BT",
-      "type": 3,
-      "api": "csp_Wexbttwo",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_疯狗影视",
-      "name": "66⚡️FG",
-      "type": 3,
-      "api": "csp_FengGo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_毛驴影视",
-      "name": "66⚡️ML",
-      "type": 3,
-      "api": "csp_MaoLv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_剧圈影视-天天",
-      "name": "*66⚡️QY",
-      "type": 3,
-      "api": "csp_Juqq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_桃子影视",
-      "name": "66⚡️TZ",
-      "type": 3,
-      "api": "csp_Taozi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
+    
+    
+    
+    
+    
+    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv",
