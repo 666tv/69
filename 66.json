@@ -2,7 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+"spider": "./jar/66tv.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+//"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -3366,12 +3367,6 @@
 		"hosts": ["yqk88","www.lxsgsy.com"],
 		"regex": ["18.4", "15.1666", "16.5333", "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]
 	},
-    {
-		"name": "磁力广告",
-		"hosts": ["magnet"],
-		"regex": ["更多", "请访问", "example", "社 區", "x u u", "直 播", "更 新", "社 区", "有趣", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠赌场", "哥哥快来", "美女荷官", "裸聊", "新片首发", "UUE29", "新葡京", "葡 京"]
-	}
-		],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
