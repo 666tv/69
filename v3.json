@@ -804,45 +804,11 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //FM
     {
-      "key": "lltv_驴番动漫-PizazzGY",
-      "name": "66🐼LF",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/驴番动漫.js"
-    },
-    {
       "key": "全网看",
       "name": "66🐼QW",
       "type": 3,
       "api": "csp_Quanwk",
       "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"
-    },
-    {
-      "key": "素白白",
-      "name": "66🐼SB",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"
-    },
-    {
-      "key": "新视觉",
-      "name": "66🐼SJ",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "VidHub2",
-      "name": "66🐼VH",
-      "type": 3,
-      "api": "csp_Vidhub2",
-      "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "BookTing",
