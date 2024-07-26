@@ -166,7 +166,7 @@
     },
     {
       "key": "lltv_爱看影视",
-      "name": "66⚡️AK",
+      "name": "66⚡️AK@",
       "type": 3,
       "api": "csp_Ikan",
       "searchable": 1,
@@ -192,7 +192,7 @@
     },
     {
       "key": "lltv_两个磁力",
-      "name": "66⚡️BT",
+      "name": "66⚡️BT@",
       "type": 3,
       "api": "csp_Wexbttwo",
       "searchable": 1,
@@ -267,7 +267,7 @@
     },
     {
       "key": "lltv_疯狗影视",
-      "name": "66⚡️FG",
+      "name": "66⚡️FG@",
       "type": 3,
       "api": "csp_FengGo",
       "searchable": 1,
@@ -276,7 +276,7 @@
     },
     {
       "key": "lltv_腐剧视频",
-      "name": "66⚡️FJ",
+      "name": "66⚡️FJ@",
       "type": 3,
       "api": "csp_WexFujutv",
       "searchable": 1,
@@ -485,7 +485,7 @@
     },
     {
       "key": "lltv_毛驴影视",
-      "name": "66⚡️ML",
+      "name": "66⚡️ML@",
       "type": 3,
       "api": "csp_MaoLv",
       "searchable": 1,
@@ -494,7 +494,7 @@
     },
     {
       "key": "lltv_明日影视",
-      "name": "66⚡️MR",
+      "name": "66⚡️MR@",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "lltv_苹果影视",
-      "name": "66⚡️PG",
+      "name": "66⚡️PG@",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -571,7 +571,7 @@
     },
     {
       "key": "lltv_剧圈影视-天天",
-      "name": "*66⚡️QQ",
+      "name": "*66⚡️QQ@",
       "type": 3,
       "api": "csp_Juqq",
       "searchable": 1,
@@ -580,7 +580,7 @@
     },
     {
       "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️QQ*",
+      "name": "66⚡️QQ*@",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -650,7 +650,7 @@
     },
     {
       "key": "lltv_新视觉",
-      "name": "66⚡️SJ",
+      "name": "66⚡️SJ@",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -682,7 +682,7 @@
     },
     {
       "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️SP",
+      "name": "66⚡️SP@",
       "type": 3,
       "api": "csp_SP360",
       "filterable": 1,
@@ -691,7 +691,7 @@
     },
     {
       "key": "lltv_大师兄-道长-运输车",
-      "name": "66⚡️SX",
+      "name": "66⚡️SX@",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/大师兄影视.js"
@@ -707,7 +707,7 @@
     },
     {
       "key": "lltv_桃子影视",
-      "name": "66⚡️TZ",
+      "name": "66⚡️TZ@",
       "type": 3,
       "api": "csp_Taozi",
       "searchable": 1,
@@ -805,7 +805,7 @@
 //FM
     {
       "key": "全网看",
-      "name": "66🐼QW",
+      "name": "66🐼QW@",
       "type": 3,
       "api": "csp_Quanwk",
       "jar": "./jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"
