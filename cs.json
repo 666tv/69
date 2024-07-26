@@ -51,14 +51,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
     {
       "key": "lltv_追剧影视",
       "name": "追剧影视",
       "type": 3,
       "api": "csp_AppZJ",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -68,7 +65,6 @@
       "name": "厂长资源",
       "type": 3,
       "api": "csp_Czsapp",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -79,27 +75,10 @@
       "name": "低端影视",
       "type": 3,
       "api": "csp_Ddys",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "lltv_快看影视",
-      "name": "快看影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    
-    
-    
-    
-    
     {
       "key": "lltv_全网影视",
       "name": "全网影视",
@@ -109,29 +88,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
-    
-    {
-      "key": "lltv_酷看影视",
-      "name": "酷看影视",
-      "type": 3,
-      "api": "csp_Wexkukantv",
-      "searchable": 1,
-      "changeable": 1
-    },
-    
-    
     {
       "key": "lltv_星辰影视",
       "name": "星辰影视",
       "type": 3,
       "api": "csp_WexXingchen",
-      
       "searchable": 1,
       "changeable": 1
     },
-    
     {
       "key": "lltv_立播影视",
       "name": "立播影视",
@@ -149,25 +113,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
-    
-    
-    
-    
-    
     {
       "key": "lltv_达达龟",
       "name": "达达龟",
       "type": 3,
       "api": "csp_Dadag",
-      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
-    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_配置中心",
