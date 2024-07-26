@@ -10,7 +10,14 @@
 
 "sites": [
 
-    
+    {
+      "key": "lltv_柠檬-巧技",
+      "name": "66⚡️NM*",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "./jar/qiaoji240620.jar",
+      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+    },
     {
       "key": "lltv_爱看影视",
       "name": "66⚡️AK",
