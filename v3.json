@@ -352,6 +352,16 @@
       "ext": "./js/JP.js"
     },
     {
+      "key": "lltv_剧圈圈-天天",
+      "name": "66⚡️JQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/剧圈圈.json"
+    },
+    {
       "key": "lltv_极速",
       "name": "66⚡️JS",
       "type": 1,
@@ -494,7 +504,7 @@
     },
     {
       "key": "lltv_明日影视",
-      "name": "66⚡️MR@",
+      "name": "66⚡️MR",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -579,16 +589,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️QQ*@",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/剧圈圈.json"
-    },
-    {
       "key": "lltv_七新-荷城-XYQ",
       "name": "66⚡️QX",
       "type": 3,
@@ -650,7 +650,7 @@
     },
     {
       "key": "lltv_新视觉",
-      "name": "66⚡️SJ@",
+      "name": "66⚡️SJ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -682,7 +682,7 @@
     },
     {
       "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️SP@",
+      "name": "66⚡️SP",
       "type": 3,
       "api": "csp_SP360",
       "filterable": 1,
@@ -691,7 +691,7 @@
     },
     {
       "key": "lltv_大师兄-道长-运输车",
-      "name": "66⚡️SX@",
+      "name": "66⚡️SX",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/大师兄影视.js"
