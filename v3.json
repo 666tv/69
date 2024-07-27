@@ -100,7 +100,7 @@
       "ext": "https://7910.kstore.space/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
+    /*{
       "key": "lltv_Bili-道长-鸭",
       "name": "哔哩🧡️直播",
       "type": 3,
@@ -109,6 +109,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://7910.kstore.space/js/哔哩直播.js"
+    },*/
+    {
+      "key": "lltv_新哔哩-巧技",
+      "name": "哔哩🧡哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./jiaoyu/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
     {
       "key": "lltv_斗鱼-FM-运输车-鸭",
