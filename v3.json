@@ -326,16 +326,6 @@
       "ext": "./js/JP.js"
     },
     {
-      "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️JQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/剧圈圈.json"
-    },
-    {
       "key": "lltv_极速",
       "name": "66⚡️JS",
       "type": 1,
@@ -382,15 +372,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.zjtu.tv/api.php/app/"
-    },
-    {
-      "key": "lltv_看看影视",
-      "name": "66⚡️KA",
-      "type": 3,
-      "api": "csp_WebIV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "lltv_可可影视-XYQ",
@@ -474,16 +455,6 @@
       "api": "csp_WexMingriys",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "lltv_摩托影视",
-      "name": "66⚡️MT",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
     },
     {
       "key": "lltv_奈飞-云星-鸭",
@@ -571,40 +542,12 @@
       "changeable": 1
     },
     {
-      "key": "lltv_圣城影视",
-      "name": "66⚡️SC",
-      "type": 3,
-      "api": "csp_SC1080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_笙歌影视",
-      "name": "66⚡️SG",
-      "type": 3,
-      "api": "csp_AppYY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "lltv_骚火影视",
       "name": "66⚡️SH",
       "type": 3,
       "api": "csp_Wexsaohuo",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "lltv_新视觉",
-      "name": "66⚡️SJ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/新视觉.json"
     },
     {
       "key": "lltv_视频库-FM",
@@ -664,14 +607,6 @@
       "ext": "./json/五五影视.json"
     },
     {
-      "key": "lltv_兄弟影视-Yu",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "lltv_xiguaya-心动-满天星辰",
       "name": "66⚡️XG",
       "type": 3,
@@ -689,23 +624,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_月亮-巧技",
-      "name": "66⚡️YL",
-      "type": 3,
-      "api": "csp_Ylys",
-      "jar": "./jar/qiaoji240620.jar"
-    },
-    {
-      "key": "lltv_电影牛-云星",
-      "name": "66⚡️YN",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/电影牛.json"
     },
     {
       "key": "lltv_愉悦影视",
