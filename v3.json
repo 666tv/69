@@ -326,13 +326,6 @@
       "ext": "./js/JP.js"
     },
     {
-      "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️JQ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/剧圈圈.js"
-    },
-    {
       "key": "lltv_极速",
       "name": "66⚡️JS",
       "type": 1,
