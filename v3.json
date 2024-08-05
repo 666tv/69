@@ -326,6 +326,13 @@
       "ext": "./js/JP.js"
     },
     {
+      "key": "lltv_剧圈圈-天天",
+      "name": "66⚡️JQ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/剧圈圈.js"
+    },
+    {
       "key": "lltv_极速",
       "name": "66⚡️JS",
       "type": 1,
@@ -449,6 +456,13 @@
       ] 
     },
     {
+      "key": "lltv_魔力高清",
+      "name": "66⚡️ML",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/魔力高清.js"
+    },
+    {
       "key": "lltv_明日影视",
       "name": "66⚡️MR",
       "type": 3,
@@ -473,6 +487,13 @@
       "api": "csp_WexNmys",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "lltv_欧帝影院",
+      "name": "66⚡️OD",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/欧帝影院.js"
     },
     {
       "key": "lltv_FreeOK",
@@ -639,6 +660,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/樱之空2.json"
+    },
+    {
+      "key": "lltv_追剧迷",
+      "name": "66⚡️ZJ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/追剧迷.js"
     },
     {
       "key": "lltv_在线之家-巧技-鸭-道长",
