@@ -1,4 +1,13 @@
     {
+      "线路标题": "<*>LLTV</*>",
+      "线路数组": ">&&<",
+      "播放标题": "+>&&</a>",
+      "分类url": "https://movie.douban.com/{cateId}/;;aRC",
+      "分类": "即将上映#正在热映",
+      "分类值": "cinema/later&cinema/nowplaying"
+    }
+/*
+    {
         "首页": "正在热映",
         "图片代理": "",
         "分类url": "https://movie.douban.com/{cateId}/;;aRC",
@@ -13,3 +22,4 @@
         "播放标题": "alt=\"&&\"",
         "播放链接": "https://m.douban.com+href=\"&&\""
     }
+*/
