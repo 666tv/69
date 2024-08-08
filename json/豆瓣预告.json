@@ -1,5 +1,4 @@
     {
-        "主页url": "https://movie.douban.com/",
         "首页": "正在热映",
         "图片代理": "",
         "分类url": "https://movie.douban.com/{cateId}/;;aRC",
