@@ -5,6 +5,7 @@
       "分类url": "https://movie.douban.com/{cateId}/;;aRC",
       "分类": "即将上映$cinema/later#正在热映$cinema/nowplaying"
     }
+    
 /*
     {
         "首页": "正在热映",
