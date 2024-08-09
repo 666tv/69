@@ -257,6 +257,16 @@
       "changeable": 1
     },
     {
+      "key": "lltv_新感觉",
+      "name": "66⚡️GJ",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.100.147:9891/api.php/app/"
+    },
+    {
       "key": "lltv_黑狐-肥猫-天天-鸭",
       "name": "66⚡️HH",
       "type": 3,
@@ -324,13 +334,6 @@
       "playerType": 1,
       "api": "./js/drpy2.min.js",
       "ext": "./js/JP.js"
-    },
-    {
-      "key": "lltv_剧圈圈-天天",
-      "name": "66⚡️JQ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/剧圈圈.js"
     },
     {
       "key": "lltv_极速",
@@ -842,7 +845,29 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+      },
+   {
+      "name": "BBA",
+      "type": "1",
+      "url": "http://43.248.100.147:1122/bba/json.php?url=",
+      "flag": [
+        "BBA"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
       }
+    },
+    {
+      "name": "NBY",
+      "type": "1",
+      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+      "flag": [
+        "NBY"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    }
     ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
