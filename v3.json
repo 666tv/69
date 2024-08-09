@@ -845,7 +845,29 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+      },
+   {
+      "name": "BBA",
+      "type": "1",
+      "url": "http://43.248.100.147:1122/bba/json.php?url=",
+      "flag": [
+        "BBA"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
       }
+    },
+    {
+      "name": "NBY",
+      "type": "1",
+      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+      "flag": [
+        "NBY"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    }
     ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
