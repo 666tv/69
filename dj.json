@@ -38,7 +38,7 @@
       "filterable": 1
     },
     {
-      "key": "lltv在线短剧",
+      "key": "lltv_在线短剧",
       "name": "在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
