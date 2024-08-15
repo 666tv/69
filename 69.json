@@ -36,6 +36,14 @@
       ]
     },
     {
+      "key":"drpy_js_色色-公子",
+      "name":"🔞涩涩直播",
+      "type":3,
+      "playerType": 1,
+      "api":"./js/drpy2.min.js",
+      "ext":"./js/ss直播.js"
+    }, 
+    {
       "key": "csp_xBPQ_tt-公子",
       "name": "🔞天天综合",
       "type": 3,
@@ -92,14 +100,6 @@
       "ext": "{\"分类url\":\"https://15xxhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"亚洲$2k-yazhou#自拍偷拍$2k-zipaitoupai#超清传媒$2k-chaoqingchuanmei#3D动漫$2k-3Ddongman#欧美$2k-oumei#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
     },
 */
-    {
-      "key":"drpy_js_色色-公子",
-      "name":"🔞涩涩直播",
-      "type":3,
-      "playerType": 1,
-      "api":"./js/drpy2.min.js",
-      "ext":"./js/ss直播.js"
-    }, 
     {
       "key": "csp_jiujiuzhobo-公子",
       "name": "🔞久久直播",
