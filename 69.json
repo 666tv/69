@@ -116,7 +116,7 @@
       "name": "🔞AV直转点",
       "type": 3,
       "api": "./js/直转点.js",
-      "ext": "./json/直转点2.txt"
+      "ext": "./json/直转点.txt"
     },
     {
       "key": "lf_js_lf_live",
