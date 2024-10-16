@@ -36,15 +36,15 @@
       ]
     },
     {
-      "key": "csp_jiujiuzhobo-公子",
-      "name": "🔞久久直播",
+      "key": "我爱AV",
+      "name": "🔞我爱AV",
       "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/jiujiu.json",
-      "jar": "./jar/xb.jar"
+      "api": "csp_XBPQ",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/我爱AV.json"
     },
     {
       "key":"drpy_js_色色-公子",
@@ -97,6 +97,17 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"./json/天天直播移动.json"
+    },
+    {
+      "key": "csp_jiujiuzhobo-公子",
+      "name": "🔞久久直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "jar": "./jar/xb.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/jiujiu.json"
     },
 /*
     {
@@ -157,26 +168,52 @@
       "ext": "./json/黄色仓库.json"
     },
     {
-      "key": "黄色仓库2高天流云9918",
-      "name": "🔞黄色仓库（备）",
+      "key": "手鸡助手",
+      "name": "🔞手鸡助手",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./json/黄色仓库2.json"
+      "ext": {
+            "请求头": "手机",
+            "直接播放": "1",
+            "分类url": "https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
+            "分类": "日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505",
+            "播放标题": "",
+            "搜索url": "https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
+      }
     },
+    {"key":"芊芊视频🔞","name":"🔞芊芊视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{ "首页": "视频二", "请求头": "手机", "编码": "gb2312", "数组": "&&", "链接": "href=\"&&\"", "简介": "description\">
+&&&&&&<", "播放数组": "
+
+&&&&&&","简介":"description\" content=\"&&在线","链接":"href=\"&&\"","跳转播放链接":"var player_*url\":\"&&\"","搜索模式":"1","搜索url":"https://web.llq4.xyz/llq/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":"&&","分类数组":"&&
+","图片":"data-original=\"&&\"","标题":"_blank\">&&","链接":"https://as.36huo250che.xyz/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://as.36huo250che.xyz/vodsearch/{wd}----------{pg}---.html","分类二次截取":"
+&&
+","分类url":"https://as.36huo250che.xyz/vodtype/{cateId}-{catePg}.html[https://as.36huo250che.xyz/vodtype/{cateId}.html];;z","分类":"国产视频$6#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#制服诱惑$20#直播主播$21#糖心Vlog$22#激情动漫$23#抖阴视频$63#女优明星$24#网-曝-门$25#伦理三级$26#AV解说$30#SM调教$31#萝莉少女$37#极品媚黑$32#女同性恋$33"}},
     {
-      "key": "我爱AV",
-      "name": "🔞我爱AV",
+      "key": " AV影院",
+      "name": " 🔞AV影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "jar": "./jar/xyqxbpq",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/我爱AV.json"
+      "ext": {
+            "图片": "data-src=\"&&\"",
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"",
+            "主页url": "https://wyaslcwgroup.cfd/",
+            "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
+            "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "xrbsp",
+      "name": "🔞想日屄视频",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "155-高天流云9918",
