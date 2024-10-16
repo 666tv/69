@@ -216,6 +216,16 @@
       "filterable": 1
     },
     {
+      "key": "富二代",
+      "name": "🔞富二代",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list",
+    //"api":"http://f2dcj6.com/sapi?ac=list&pg=1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "155-高天流云9918",
       "name": "💕155(直连)",
       "type": 0,
@@ -494,16 +504,6 @@
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
       }
-    },
-    {
-      "key": "富二代",
-      "name": "🔞富二代",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=list",
-    //"api":"http://f2dcj6.com/sapi?ac=list&pg=1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "大地av",
