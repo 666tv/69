@@ -130,6 +130,14 @@
       "ext": "./json/直转点.txt"
     },
     {
+      "key": "福利直播-公子",
+      "name": "🔞福利直播",
+      "type": 3,
+      "api": "./js/直转点.js",
+      "ext": "./json/lf_live1.txt"
+    },
+/*
+    {
       "key": "lf_js_lf_live",
       "name": "🔞福利直播",
       "type": 3,
@@ -143,7 +151,6 @@
       "filterable": 1,
       "ext": "./json/lf_live1.txt"
     },
-/*
     {
       "key": "csp_jy-公子",
       "name": "🔞聚优直播",
