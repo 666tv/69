@@ -11,8 +11,19 @@
 "sites":[
 
     {
-      "key": "鸡坤资源",
+      "key": "我爱AV",
       "name": "💋首次加载较慢•推荐电信网络",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/我爱AV.json"
+    },
+    {
+      "key": "鸡坤资源",
+      "name": "🔞JK资源",
       "type": 1,
     //"api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
       "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
@@ -34,17 +45,6 @@
         "里番动漫",
         "伦理片"
       ]
-    },
-    {
-      "key": "我爱AV",
-      "name": "🔞我爱AV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/我爱AV.json"
     },
     {
       "key":"drpy_js_色色-公子",
