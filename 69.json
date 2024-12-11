@@ -11,7 +11,7 @@
 "sites":[
 
     {
-      "key": "155-高天流云9918",
+      "key": "155",
       "name": "💋首次加载较慢•推荐电信网络",
       "type": 0,
       "playerType": 2,
@@ -372,28 +372,6 @@
       "quickSearch": 0
     },
     {
-      "key": "大地",
-      "name": "💕大地(直连)",
-      "type": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "http://dadiapi.com/api.php",
-      "searchable": 1
-    },
-    {
-      "key": "喇叭",
-      "name": "💕喇叭(直连)",
-      "type": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-      "searchable": 1
-    },
-    {
       "key": "老鸭-高天流云9918",
       "name": "💕老鸭(直连)",
       "type": 1,
@@ -434,6 +412,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "喇叭",
+      "name": "💕喇叭(直连)",
+      "type": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "searchable": 1
     },
     {
       "key": "laosebizy.com-高天流云9918",
@@ -544,6 +533,305 @@
       "searchable": 1,
       "filterable": 1
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+		  "key": "lltv_360采集-夜猫",
+		  "name": "360┃伦理",
+		  "type": 1,
+  		"api": "https://360zy.com/api.php/provide/vod",
+		  "playurl": "json:https://www.360jiexi.com/player/?url=",
+	    "categories": [
+        "伦理片"
+      ] 
+	  },
+    {
+      "key": "CK资源-伦理",
+      "name": "CK┃伦理",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "KKzy",
+      "name": "KK┃伦理",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key":"csp_xml___百度资源",
+      "name":"百度┃伦理",
+      "type":1,
+      "api":"https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "暴风资源",
+      "name": "暴风┃伦理",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "理论片"
+      ]
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "非凡┃伦理",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    { "key":"光速资源",
+      "name":"光速┃伦理",
+      "type":1,
+      "playerType": 1,
+      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "虎牙",
+      "name": "虎牙┃伦理",
+      "type": 1,
+      "playerType": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "豪华资源",
+      "name": "豪华┃伦理",
+      "type": 1,
+      "playerType": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "红牛",
+      "name": "红牛┃伦理",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "lltv_极速",
+      "name": "极速┃短剧",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playurl": "json:https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    { 
+      "key":"api_金鹰资源",
+      "name":"金鹰┃伦理",
+      "type":1,
+      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "快车资源",
+      "name": "快车┃伦理",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "快看资源",
+      "name": "快看┃伦理",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "lltv_乐视-夜猫",
+      "name": "乐视┃伦理",
+      "type": 1,
+      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片",
+        "港台三级",
+        "韩国伦理",
+        "日本伦理",
+        "其他伦理"
+      ]
+    }, 
+    {
+      "key": "量子资源",
+      "name": "量子┃伦理",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key":"奇虎资源",
+      "name":"奇虎┃伦理",
+      "type":1,
+      "api":"https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    { 
+      "key":"速播资源",
+      "name":"速播┃伦理",
+      "type":1,
+      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    { 
+      "key":"api_天翼资源",
+      "name":"天翼┃伦理",
+      "type":1,
+      "api":"https://www.911ysw.top/tianyi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key":"csp_xml___U酷资源",
+      "name":"U酷┃伦理",
+      "type":1,
+      "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key":"csp_xml___无尽资源",
+      "name":"无尽┃伦理",
+      "type":1,
+      "api":"https://api.wujinapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key":"卧龙资源",
+      "name":"卧龙┃伦理",
+      "type":1,
+      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "zy_新浪资源",
+      "name": "新浪┃伦理",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "易看资源-伦理",
+      "name": "易看┃伦理",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "优质资源",
+      "name": "优质┃伦理",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "categories": [
+        "福利",
+        "倫理片"
+      ]
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "777午夜精品-公子",
       "name": "🔞777午夜精品",
@@ -1215,304 +1503,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-		  "key": "lltv_360采集-夜猫",
-		  "name": "360┃伦理",
-		  "type": 1,
-  		"api": "https://360zy.com/api.php/provide/vod",
-		  "playurl": "json:https://www.360jiexi.com/player/?url=",
-	    "categories": [
-        "伦理片"
-      ] 
-	  },
-    {
-      "key": "CK资源-伦理",
-      "name": "CK┃伦理",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "KKzy",
-      "name": "KK┃伦理",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key":"csp_xml___百度资源",
-      "name":"百度┃伦理",
-      "type":1,
-      "api":"https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "暴风资源",
-      "name": "暴风┃伦理",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "理论片"
-      ]
-    },
-    {
-      "key": "csp_非凡资源",
-      "name": "非凡┃伦理",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    { "key":"光速资源",
-      "name":"光速┃伦理",
-      "type":1,
-      "playerType": 1,
-      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "虎牙",
-      "name": "虎牙┃伦理",
-      "type": 1,
-      "playerType": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "豪华资源",
-      "name": "豪华┃伦理",
-      "type": 1,
-      "playerType": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "红牛",
-      "name": "红牛┃伦理",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "lltv_极速",
-      "name": "极速┃短剧",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
-      "playurl": "json:https://jsjiexi.com/play/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    { 
-      "key":"api_金鹰资源",
-      "name":"金鹰┃伦理",
-      "type":1,
-      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "快车资源",
-      "name": "快车┃伦理",
-      "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "快看资源",
-      "name": "快看┃伦理",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "lltv_乐视-夜猫",
-      "name": "乐视┃伦理",
-      "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片",
-        "港台三级",
-        "韩国伦理",
-        "日本伦理",
-        "其他伦理"
-      ]
-    }, 
-    {
-      "key": "量子资源",
-      "name": "量子┃伦理",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key":"奇虎资源",
-      "name":"奇虎┃伦理",
-      "type":1,
-      "api":"https://caiji.qhzyapi.com/api.php/provide/vod/",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    { 
-      "key":"速播资源",
-      "name":"速播┃伦理",
-      "type":1,
-      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    { 
-      "key":"api_天翼资源",
-      "name":"天翼┃伦理",
-      "type":1,
-      "api":"https://www.911ysw.top/tianyi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key":"csp_xml___U酷资源",
-      "name":"U酷┃伦理",
-      "type":1,
-      "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key":"csp_xml___无尽资源",
-      "name":"无尽┃伦理",
-      "type":1,
-      "api":"https://api.wujinapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key":"卧龙资源",
-      "name":"卧龙┃伦理",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "新浪┃伦理",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "易看资源-伦理",
-      "name": "易看┃伦理",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "优质资源",
-      "name": "优质┃伦理",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "福利",
-        "倫理片"
-      ]
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
