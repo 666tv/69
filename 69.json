@@ -72,7 +72,7 @@
       "type":3,
       "playerType": 1,
       "api":"./js/drpy2.min.js",
-      "ext":"./js/ss直播.js"
+      "ext": "./mov/js/ss直播.js"
     }, 
     {
       "key": "csp_xBPQ_tt-公子",
@@ -94,7 +94,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"./json/天天直播.json"
+      "ext": "./mov/json/天天直播.json"
     },
 /*
     {
@@ -117,7 +117,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"./json/天天直播移动.json"
+      "ext": "./mov/json/天天直播移动.json"
     },
     {
       "key": "csp_xBPQ_日日夜夜",
@@ -1184,7 +1184,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"./json/榨汁姬.json"
+      "ext": "./mov/json/榨汁姬.json"
     },
     {
       "key":"csp_hwbl",
