@@ -64,7 +64,7 @@
       "style": {
         "ratio": 1.7
       },
-      "ext": "./json/黄色仓库.json"
+      "ext": "./mov/json/黄色仓库.json"
     },
     {
       "key":"drpy_js_色色-公子",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/天天综合.json"
+      "ext": "./mov/json/天天综合.json"
     },
     {
       "key":"csp_xBPQ_天天直播-公子",
@@ -106,7 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/天天综合移动.json"
+      "ext": "./mov/json/天天综合移动.json"
     },
     {
       "key":"csp_xBPQ_天天直播移动-公子",
@@ -140,21 +140,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/jiujiu.json"
+      "ext": "./mov/json/jiujiu.json"
     },
     {
       "key": "直转点-公子",
       "name": "🔞AV直转点",
       "type": 3,
       "api": "./js/直转点.js",
-      "ext": "./json/直转点.txt"
+      "ext": "./mov/json/直转点.txt"
     },
     {
       "key": "福利直播-公子",
       "name": "🔞福利直播",
       "type": 3,
       "api": "./js/直转点.js",
-      "ext": "./json/lf_live1.txt"
+      "ext": "./mov/json/lf_live1.txt"
     },
 /*
     {
@@ -169,7 +169,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/lf_live1.txt"
+      "ext": "./mov/json/lf_live1.txt"
     },
     {
       "key": "csp_jy-公子",
@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/juyou.json",
+      "ext": "./mov/json/juyou.json",
       "jar": "./jar/xb.jar"
     },
 */
@@ -202,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/我爱AV.json"
+      "ext": "./mov/json/我爱AV.json"
     },
     {
       "key": "番号",
@@ -1274,7 +1274,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/Yoursmile2.jar",
-      "ext": "./json/新香蕉中文字幕.json"
+      "ext": "./mov/json/新香蕉中文字幕.json"
     },
     {
       "key": "❤淫水机资源",
@@ -1363,7 +1363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/91色.json",
+      "ext": "./mov/json/91色.json",
       "jar": "./jar/xb.jar"
     },
     {
