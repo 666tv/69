@@ -71,7 +71,7 @@
       "name":"🔞涩涩直播",
       "type":3,
       "playerType": 1,
-      "api":"./js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./mov/js/ss直播.js"
     }, 
     {
