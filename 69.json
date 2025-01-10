@@ -11,13 +11,13 @@
 "sites":[
 
     {
-      "key": "155",
+      "key": "乐播资源",
       "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://155api.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "大地",
@@ -36,7 +36,7 @@
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       //"api": "https://www.jkunzyapi.com/api.php/provide/vod/",
-      "playurl": "json:https://www.jkunzyjx.com/?url=",
+      //"playurl": "json:https://www.jkunzyjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -45,8 +45,7 @@
       "key": "lltv_iKun",
       "name": "🔞动漫伦理",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
-      "playurl": "json:https://www.ikdmjx.com/?url=",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
