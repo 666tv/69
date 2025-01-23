@@ -20,6 +20,17 @@
       "filterable": 1
     },
     {
+      "key": "hipy_js_采集之王[合]2",
+      "name": "🔞采王成人合集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 2,
+      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
+    },
+    {
       "key": "didiz-公子",
       "name": "🔞玫瑰",
       "type": 1,
