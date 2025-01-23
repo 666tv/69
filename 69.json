@@ -21,7 +21,7 @@
     },
     {
       "key": "hipy_js_采集之王[合]2",
-      "name": "🔞采王成人合集",
+      "name": "🔞采王成人集",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -29,6 +29,72 @@
       "filterable": 1,
       "order_num": 2,
       "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
+    },
+    {
+      "key": "hipy_js_采集之王[合]1",
+      "name": "🔞采王资源集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[zy]静态.json$1"
+    },
+    {
+      "key": "hipy_js_乐草TV[密]-道长",
+      "name": "🔞乐草TV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/乐草TV[密].js"
+    },
+    {
+      "key": "hipy_js_小女18[密]-道长",
+      "name": "🔞小女18",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/小女18[密].js"
+    },
+    {
+      "key": "hipy_js_R18撸[密]-道长",
+      "name": "🔞R18撸",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/R18撸[密].js"
+    },
+    {
+      "key": "hipy_js_爱爱影院[密]-道长",
+      "name": "🔞爱爱影院",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/爱爱影院[密].js"
+    },
+    {
+      "key": "hipy_js_飞狗影院[密]-道长",
+      "name": "🔞飞狗影院",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/飞狗影院[密].js"
     },
     {
       "key": "didiz-公子",
@@ -114,6 +180,17 @@
       "ext": "./mov/json/黄色仓库.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "hipy_js_36直播[密]",
+      "name": "🔞36直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/36直播[密].js"
+    },
     {
       "key":"drpy_js_色色-公子",
       "name":"🔞涩涩直播",
@@ -959,6 +1036,182 @@
       ]
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "hipy_js_草莓秒播[密]-道长",
+      "name": "🔞草莓秒播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/草莓秒播[密].js"
+    },
+    {
+      "key": "hipy_js_29片库[密]-道长",
+      "name": "🔞29片库",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/29片库[密].js"
+    },
+    {
+      "key": "hipy_js_地瓜视频[密]-道长",
+      "name": "🔞地瓜视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/地瓜视频[密].js"
+    },
+    {
+      "key": "hipy_js_番号资源[密]-道长",
+      "name": "🔞番号资源",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/番号资源[密].js"
+    },
+    {
+      "key": "hipy_js_黑料不打烊[密]-道长",
+      "name": "🔞黑料不打烊",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/黑料不打烊[密].js"
+    },
+    {
+      "key": "hipy_js_恒大影视[密]-道长",
+      "name": "🔞恒大影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/恒大影视[密].js"
+    },
+    {
+      "key": "hipy_js_九妖仓库[密]-道长",
+      "name": "🔞九妖仓库",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/九妖仓库[密].js"
+    },
+    {
+      "key": "hipy_js_老司视频[密]-道长",
+      "name": "🔞老司视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/老司视频[密].js"
+    },
+    {
+      "key": "hipy_js_路视频[密]-道长",
+      "name": "🔞路视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/路视频[密].js"
+    },
+    {
+      "key": "hipy_js_绿色仓库[密]-道长",
+      "name": "🔞绿色仓库",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/绿色仓库[密].js"
+    },
+    {
+      "key": "hipy_js_千百视频[密]-道长",
+      "name": "🔞千百视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/千百视频[密].js"
+    },
+    {
+      "key": "hipy_js_色库[密]-道长",
+      "name": "🔞色库",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/色库[密].js"
+    },
+    {
+      "key": "hipy_js_一点视频[密]-道长",
+      "name": "🔞一点视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/一点视频[密].js"
+    },
+    {
+      "key": "hipy_js_Pornhub[密]-道长",
+      "name": "🔞Pornhub",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/Pornhub[密].js"
+    },
+    {
+      "key": "hipy_js_UAA[密]-道长",
+      "name": "🔞UAA",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/UAA[密].js"
+    },
+    {
+      "key": "hipy_js_xvideos涩涩[密]-道长",
+      "name": "🔞xvideos涩涩",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/xvideos涩涩[密].js"
+    },
     {
       "key": "777午夜精品-公子",
       "name": "🔞777午夜精品",
