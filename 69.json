@@ -42,19 +42,6 @@
       "ext": "./mov/json/黄色仓库.json"
     },
     {
-      "key": "lltv_iKun",
-      "name": "🔞iKun",
-      "type": 1,
-      "api": "https://www.ikunzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "里番动漫",
-        "伦理片"
-      ]
-    },
-    {
       "key": "api.11bat.com",
       "name": "🔞11bat资源",
       "type": 0,
@@ -417,8 +404,22 @@
       "ext": "./mov/json/lf_live1.txt"
     },
     {
+      "key": "lltv_iKun",
+      "name": "🔞iKun",
+      "type": 1,
+      "api": "https://www.ikunzy.com/api.php/provide/vod/",
+      "playurl": "json:https://www.ikdmjx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "里番动漫",
+        "伦理片"
+      ]
+    },
+    {
       "key": "JKun",
-      "name": "🔞JK",
+      "name": "🔞JKun",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
