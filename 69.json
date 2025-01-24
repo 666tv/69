@@ -2,7 +2,6 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -30,15 +29,13 @@
       "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
     },
     {
-      "key": "黄色仓库-高天流云9918",
-      "name": "🔞黄色仓库",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "spider": "./jar/pg240628.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./mov/json/黄色仓库.json"
+      "key": "155-高天流云9918",
+      "name": "🔞155",
+      "type": 0,
+      "playerType": 2,
+      "api": "https://155api.com/api.php/provide/vod/at/xml",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "api.11bat.com",
@@ -402,6 +399,7 @@
       "api": "./js/直转点.js",
       "ext": "./mov/json/lf_live1.txt"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_iKun",
       "name": "🔞iKun",
@@ -441,22 +439,29 @@
       "name": "🔞我爱av",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg240628.jar",
+      "jar": "./jar/xyqxbpq",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/我爱AV.json"
     },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "155-高天流云9918",
-      "name": "💕155(直连)",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://155api.com/api.php/provide/vod/at/xml",
-      "searchable": 0,
-      "quickSearch": 0
+      "key": "黄色仓库-cc",
+      "name": "🔞黄色仓库cc",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq",
+      "ext": "./mov/json/黄色仓库cc.json"
     },
+    {
+      "key": "黄色仓库-xyz",
+      "name": "🔞黄色仓库xyz",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq",
+      "ext": "./mov/json/黄色仓库xyz.json"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "老鸭-高天流云9918",
       "name": "💕老鸭(直连)",
