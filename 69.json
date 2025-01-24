@@ -31,26 +31,28 @@
       "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
     },
     {
-      "key": "hipy_js_采集之王[合]1",
-      "name": "🔞采王资源集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
+      "key": "lltv_iKun",
+      "name": "🔞IKun",
+      "type": 1,
+      "api": "https://www.ikunzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 1,
-      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[zy]静态.json$1"
+      "categories": [
+        "里番动漫",
+        "伦理片"
+      ]
     },
     {
-      "key": "hipy_js_乐草TV[密]-道长",
-      "name": "🔞乐草TV",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
+      "key": "JKun",
+      "name": "🔞JKun",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      //"api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+      //"playurl": "json:https://www.jkunzyjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mov/js/乐草TV[密].js"
+      "filterable": 0
     },
     {
       "key": "hipy_js_小女18[密]-道长",
@@ -75,44 +77,48 @@
       "ext": "./mov/js/R18撸[密].js"
     },
     {
-      "key": "hipy_js_爱爱影院[密]-道长",
-      "name": "🔞爱爱影院",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mov/js/爱爱影院[密].js"
-    },
-    {
-      "key": "hipy_js_飞狗影院[密]-道长",
-      "name": "🔞飞狗影院",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mov/js/飞狗影院[密].js"
-    },
-    {
-      "key": "didiz-公子",
-      "name": "🔞玫瑰",
+      "key": "奥斯卡资源网-高天流云9918",
+      "name": "🔞奥斯卡",
       "type": 1,
-      "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
-      "jar": "./jar/CFlLnSbJ",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "didizy.com-高天流云9918",
+      "name": "🔞滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "xrbsp-公子",
-      "name": "🔞想日屄",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "quickSearch": 1,
+      "key": "senlinzy2.com",
+      "name": "🔞森林",
+      "type": 1,
+      "api": "http://senlinzy2.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key": "naixxzy.com-高天流云9918",
+      "name": "🔞奶香香",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hipy_js_乐草TV[密]-道长",
+      "name": "🔞乐草TV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/乐草TV[密].js"
     },
     {
       "key": "富二代-公子",
@@ -412,30 +418,6 @@
       "searchable": 1
     },
     {
-      "key": "JK",
-      "name": "🔞JK",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      //"api": "https://www.jkunzyapi.com/api.php/provide/vod/",
-      //"playurl": "json:https://www.jkunzyjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_iKun",
-      "name": "🔞动漫伦理",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "里番动漫",
-        "伦理片"
-      ]
-    },
-    {
       "key": "大地av",
       "name": "🔞大地av",
       "type": 0,
@@ -637,14 +619,6 @@
       "filterable": 1
     },
     {
-      "key": "naixxzy.com-高天流云9918",
-      "name": "💕奶香香(直连)",
-      "type": 1,
-      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "www.caoliuzyw.com-高天流云9918",
       "name": "💕草榴(直连)",
       "type": 1,
@@ -707,27 +681,12 @@
       "filterable": 1
     },
     {
-      "key": "didizy.com-高天流云9918",
-      "name": "💕滴滴(直连)",
-      "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "lyhzyw.com-高天流云9918",
       "name": "💕狼友会(直连)",
       "type": 1,
       "api": "https://api.lyhapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "奥斯卡资源网-高天流云9918",
-      "name": "💕奥斯卡(直连)",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
     },
     {
       "key": "kuaiavzy.com-高天流云9918",
@@ -1036,6 +995,57 @@
       ]
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "didiz-公子",
+      "name": "🔞玫瑰",
+      "type": 1,
+      "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
+      "jar": "./jar/CFlLnSbJ",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xrbsp-公子",
+      "name": "🔞想日屄",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hipy_js_采集之王[合]1",
+      "name": "🔞采王资源集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[zy]静态.json$1"
+    },
+    {
+      "key": "hipy_js_爱爱影院[密]-道长",
+      "name": "🔞爱爱影院",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/爱爱影院[密].js"
+    },
+    {
+      "key": "hipy_js_飞狗影院[密]-道长",
+      "name": "🔞飞狗影院",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/飞狗影院[密].js"
+    },
     {
       "key": "hipy_js_草莓秒播[密]-道长",
       "name": "🔞草莓秒播",
