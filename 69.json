@@ -69,6 +69,24 @@
       "ext": "./mov/json/黄色仓库xyz.json"
     },
     {
+      "key": "富二代-公子",
+      "name": "🔞富二代",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奥斯卡资源网-高天流云9918",
+      "name": "🔞奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -188,30 +206,12 @@
       "api":"https://www.gdlsp.com/api/xml.php"
     },
     {
-      "key": "奥斯卡资源网-高天流云9918",
-      "name": "🔞奥斯卡",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "naixxzy.com-高天流云9918",
       "name": "🔞奶香香",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "富二代-公子",
-      "name": "🔞富二代",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "yyb-公子",
