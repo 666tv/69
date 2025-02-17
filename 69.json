@@ -9,8 +9,17 @@
 "sites":[
 
     {
-      "key": "csp_xBPQ_tt-公子",
+      "key": "JKun",
       "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
+      "type": 1,
+      "api": "https://jkunzy.live/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_xBPQ_tt-公子",
+      "name": "🔞天天综合&1",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/xyq.jar",
@@ -18,17 +27,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./mov/json/天天综合.json"
-    },
-    {
-      "key":"csp_xBPQ_天天直播-公子",
-      "name":"🔞天天直播&1",
-      "type":3,
-      "api":"csp_xBPQ",
-      "jar":"./jar/xb.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext": "./mov/json/天天直播.json"
     },
     {
       "key": "csp_xBPQ_ttyd-公子",
@@ -40,6 +38,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./mov/json/天天综合移动.json"
+    },
+    {
+      "key":"csp_xBPQ_天天直播-公子",
+      "name":"🔞天天直播&1",
+      "type":3,
+      "api":"csp_xBPQ",
+      "jar":"./jar/xb.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext": "./mov/json/天天直播.json"
     },
     {
       "key":"csp_xBPQ_天天直播移动-公子",
@@ -428,15 +437,6 @@
         "里番动漫",
         "伦理片"
       ]
-    },
-    {
-      "key": "JKun",
-      "name": "🔞JKun",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "大地",
