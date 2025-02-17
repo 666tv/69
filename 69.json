@@ -21,7 +21,7 @@
     },
     {
       "key":"csp_xBPQ_天天直播-公子",
-      "name":"🔞天天直播&电信",
+      "name":"🔞天天直播&1",
       "type":3,
       "api":"csp_xBPQ",
       "jar":"./jar/xb.jar",
@@ -32,7 +32,7 @@
     },
     {
       "key": "csp_xBPQ_ttyd-公子",
-      "name": "🔞天天综合&移动",
+      "name": "🔞天天综合&2",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/xyq.jar",
@@ -43,7 +43,7 @@
     },
     {
       "key":"csp_xBPQ_天天直播移动-公子",
-      "name":"🔞天天直播&移动",
+      "name":"🔞天天直播&2",
       "type":3,
       "api":"csp_xBPQ",
       "jar":"./jar/xb.jar",
@@ -53,20 +53,20 @@
       "ext": "./mov/json/天天直播移动.json"
     },
     {
-      "key": "黄色仓库-cc",
-      "name": "🔞黄色仓库cc",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq",
-      "ext": "./mov/json/黄色仓库cc.json"
-    },
-    {
       "key": "黄色仓库-xyz",
-      "name": "🔞黄色仓库xyz",
+      "name": "🔞黄色仓库&1",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xyqxbpq",
       "ext": "./mov/json/黄色仓库xyz.json"
+    },
+    {
+      "key": "黄色仓库-cc",
+      "name": "🔞黄色仓库&2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq",
+      "ext": "./mov/json/黄色仓库cc.json"
     },
     {
       "key": "富二代-公子",
