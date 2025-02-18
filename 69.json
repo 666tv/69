@@ -18,6 +18,54 @@
       "filterable": 0
     },
     {
+      "key": "laosebizy.com-高天流云9918",
+      "name": "🔞老色逼",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "富二代-公子",
+      "name": "🔞富二代",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奥斯卡资源网-高天流云9918",
+      "name": "🔞奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hipy_js_36直播[密]",
+      "name": "🔞36直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mov/js/36直播[密].js"
+    },
+    {
+      "key": "hipy_js_采集之王[合]2",
+      "name": "🔞采王成人集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 2,
+      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
+    },
+    {
       "key": "csp_xBPQ_tt-公子",
       "name": "🔞天天综合&1",
       "type": 3,
@@ -78,24 +126,6 @@
       "ext": "./mov/json/黄色仓库cc.json"
     },
     {
-      "key": "富二代-公子",
-      "name": "🔞富二代",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "奥斯卡资源网-高天流云9918",
-      "name": "🔞奥斯卡",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
@@ -103,17 +133,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "hipy_js_采集之王[合]2",
-      "name": "🔞采王成人集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 2,
-      "ext": "./mov/js/采集之王[合].js?type=url&params=./mov/json/采集[密]静态.json"
     },
     {
       "key": "155-高天流云9918",
@@ -380,17 +399,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "hipy_js_36直播[密]",
-      "name": "🔞36直播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mov/js/36直播[密].js"
-    },
-    {
       "key":"drpy_js_色色-公子",
       "name":"🔞涩涩直播",
       "type":3,
@@ -513,14 +521,6 @@
       },
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
       "searchable": 1
-    },
-    {
-      "key": "laosebizy.com-高天流云9918",
-      "name": "💕老色逼(直连)",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "www.caoliuzyw.com-高天流云9918",
