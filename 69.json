@@ -437,7 +437,6 @@
       "name": "🔞iKun",
       "type": 1,
       "api": "https://www.ikunzy.com/api.php/provide/vod/",
-      "playurl": "json:https://www.ikdmjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
