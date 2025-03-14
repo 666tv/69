@@ -437,6 +437,7 @@
       "name": "🔞iKun",
       "type": 1,
       "api": "https://www.ikunzy.com/api.php/provide/vod/",
+      "playurl": "https://www.ikdmjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -601,15 +602,15 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-		  "key": "lltv_360采集-夜猫",
-		  "name": "360┃伦理",
-		  "type": 1,
-  		"api": "https://360zy.com/api.php/provide/vod",
-		  "playurl": "json:https://www.360jiexi.com/player/?url=",
-	    "categories": [
+      "key": "lltv_360采集-夜猫",
+      "name": "360┃伦理",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playurl": "json:https://www.360jiexi.com/player/?url=",
+      "categories": [
         "伦理片"
       ] 
-	  },
+    },
     {
       "key": "CK资源-伦理",
       "name": "CK┃伦理",
