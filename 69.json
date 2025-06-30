@@ -42,7 +42,7 @@
       "name":"🔞火车36",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "./jar/CFlLnSbJ",
+    //"jar": "./jar/CFlLnSbJ",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
@@ -89,6 +89,37 @@
             "分类url": "https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}
     },
     {
+      "key": "手鸡助手-公子",
+      "name": "🔞手鸡助手",
+      "type": 3,
+      "api": "csp_XBPQ",
+    //"jar": "./jar/CFlLnSbJ",
+      "ext": {
+            "请求头": "手机",
+            "直接播放": "1",
+            "分类url": "https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
+            "分类": "日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505",
+            "播放标题": "<h1&&</h1>",
+            "搜索url": "https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
+      }
+    },
+    {
+      "key": "黄色仓库-cc",
+      "name": "🔞黄色仓库&1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq",
+      "ext": "./mov/json/黄色仓库cc.json"
+    },
+    {
+      "key": "黄色仓库-xyz",
+      "name": "🔞黄色仓库&2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq",
+      "ext": "./mov/json/黄色仓库xyz.json"
+    },
+    {
       "key": "csp_xBPQ_tt-公子",
       "name": "🔞天天综合&1",
       "type": 3,
@@ -131,22 +162,6 @@
       "quickSearch":1,
       "filterable":0,
       "ext": "./mov/json/天天直播移动.json"
-    },
-    {
-      "key": "黄色仓库-xyz",
-      "name": "🔞黄色仓库&1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq",
-      "ext": "./mov/json/黄色仓库xyz.json"
-    },
-    {
-      "key": "黄色仓库-cc",
-      "name": "🔞黄色仓库&2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq",
-      "ext": "./mov/json/黄色仓库cc.json"
     },
     {
       "key": "hipy_js_采集之王[合]2",
@@ -306,7 +321,7 @@
       "name": "🔞淫用宝",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/CFlLnSbJ",
+    //"jar": "./jar/CFlLnSbJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -333,21 +348,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "手鸡助手-公子",
-      "name": "🔞手鸡助手",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/CFlLnSbJ",
-      "ext": {
-            "请求头": "手机",
-            "直接播放": "1",
-            "分类url": "https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
-            "分类": "日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505",
-            "播放标题": "<h1&&</h1>",
-            "搜索url": "https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
-      }
     },
     {
       "key": "芊芊视频🔞-公子",
@@ -388,7 +388,7 @@
       "name": "🔞一夜抱妇",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/CFlLnSbJ",
+    //"jar": "./jar/CFlLnSbJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
