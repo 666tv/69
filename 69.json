@@ -13,7 +13,7 @@
       "key": "JKun",
       "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
       "type": 1,
-      "api": "https://jkunzy.live/api.php/provide/vod",
+      "api": "https://jkunzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
