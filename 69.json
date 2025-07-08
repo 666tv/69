@@ -53,6 +53,54 @@
       ]
     },
     {
+      "key": "155-公子-高天流云9918",
+      "name": "🔞155",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "红桃-公子",
+      "name": "🔞红桃",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "XMVideo",
+      "name": "🔞熊猫",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "jar": "./jar/182.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key":"高清xxxx黑料",
+      "name":"🔞高清xx黑料",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"发布地址": "https://www.51heiliaofulishe.com",
+          "主页url": "https://www.51heiliaofulishe.com/label/sort999?ck=",
+          "数组": "class=\"item-box\">&&</a",
+          "图片": "src=\"&&\"",
+          "副标题": "<!-- <small>&&</small> -->",
+          "简介": "description\" content=\"&&|全站免费",
+          "链接": "https://www.51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
+          "搜索模式": "1",
+          "搜索url": "https://www.51heiliaofulishe.com/s/page/{pg}/wd/{wd}/",
+          "分类数组": "<a&&/a",
+          "分类标题": ">&&<",
+          "分类ID": "/t/&&/",
+          "分类url": "https://www.51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"
+       }
+    },
+    {
       "key":"火车36小时-公子",
       "name":"🔞火车36",
       "type":3,
@@ -74,7 +122,9 @@
       "name": "🔞小日本资源",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "quickSearch": 1
+      "quickSearch":1,
+      "searchable":1,
+      "filterable":1
     },
     {
       "key": "乱伦群视频-公子",
@@ -225,15 +275,6 @@
       "filterable": 1
     },
     {
-      "key": "155-高天流云9918",
-      "name": "🔞155",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://155api.com/api.php/provide/vod/at/xml",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "api.11bat.com",
       "name": "🔞11bat资源",
       "type": 0,
@@ -333,7 +374,7 @@
     },
     {
       "key": "yyb-公子",
-      "name": "🔞淫用宝",
+      "name": "🔞淫用宝1",
       "type": 3,
       "api": "csp_XBPQ",
     //"jar": "./jar/CFlLnSbJ",
@@ -342,6 +383,7 @@
       "filterable": 1,
       "ext": {
             "主页url": "https://lifeow.yyb4.motorcycles/yyb/",
+          //"主页url": "https://fwruax.yyb2.cyou/yyb/",
             "数组": "caption\">&&</div><div",
             "直接播放": "1",
             "图片": "src=\"&&\"",
@@ -1205,15 +1247,6 @@
       "filterable": 1,
       "jar": "./jar/Yoursmile2.jar",
       "ext": "./mov/json/新香蕉中文字幕.json"
-    },
-    {
-      "key": "❤淫水机资源",
-      "name": "🔞淫水机资源",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
     },
     {
       "key": "18",
