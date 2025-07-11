@@ -13,13 +13,12 @@
       "key": "JKun",
       "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
       "type": 1,
-      "api": "https://www.jkzyuan.cc/api.php/provide/vod",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
     //"api": "https://jkunzy.live/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key":"drpy_js_色色-公子",
       "name":"🔞ss直播",
@@ -2540,6 +2539,15 @@
       "type": 0,
       "playerType": 1,
       "url": "./avlive.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10
+    },
+    {
+      "name": "ALive2",
+      "type": 0,
+      "playerType": 1,
+      "url": "./avlive2.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "timeout": 10
