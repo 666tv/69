@@ -64,6 +64,7 @@
       "name": "🔞JKun",
       "type": 1,
       "api": "https://www.jkzyuan.cc/api.php/provide/vod",
+      //"api": "https://jkunzyapi.com/api.php/provide/vod",
       //"api": "https://jkunzy.live/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
