@@ -78,14 +78,6 @@
       "changeable": 1
     },
     {
-      "key": "红桃-公子",
-      "name": "🔞红桃",
-      "type": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key":"火车36小时-公子",
       "name":"🔞火车36",
       "type":3,
