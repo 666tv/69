@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/pg240628.jar",
+"spider": "./jar/xyqxbpq",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -415,8 +415,66 @@
             "分类ID": "/t/&&/",
             "分类url": "https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z"
       }
+    },
+    {
+      "key": "csp_jiujiuzhobo-公子",
+      "name": "🔞久久直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "jar": "./jar/xb.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./mov/json/jiujiu.json"
+    },    
+    {
+      "key": "csp_xBPQ_新香蕉中文字幕",
+      "name": "🔞新香蕉中文",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/Yoursmile2.jar",
+      "ext": "./mov/json/新香蕉中文字幕.json"
+    },
+    {
+      "key": "18",
+      "name": "🔞蜂蜜资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "./jar/fm.jar;md5;12256c49c78305f2bedfd09b5d786620"
+    },
+    {
+      "key": "MissAV",
+      "name": "🔞MissAV需挂梯",
+      "type": 3,
+      "api": "csp_Miss",
+      "jar": "./jar/pg.jar",
+      "searchable": 1
+    },
+    {
+      "key": "Jable",
+      "name": "🔞Jable需挂梯",
+      "type": 3,
+      "api": "csp_Jable",
+      "jar": "./jar/pg.jar",
+      "searchable": 1
+    },
+    {
+      "key": "csp_xBPQ_91色",
+      "name": "🔞91色",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./mov/json/91色.json",
+      "jar": "./jar/xb.jar"
     }
-*/
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -436,33 +494,33 @@
     },
     {
       "name": "LLTV_1",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "type": "1",
+      "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
+          "flag": [
+              "qq",
+              "腾讯",
+              "qiyi",
+              "爱奇艺",
+              "奇艺",
+              "youku",
+              "优酷",
+              "sohu",
+              "搜狐",
+              "letv",
+              "乐视",
+              "mgtv",
+              "芒果",
+              "tnmb",
+              "seven",
+              "bilibili",
+              "1905",
+              "NetFilx"
+          ],
+          "header": {
+              "User-Agent": "okhttp/4.9.1"
+          }
+       }
     },
     {
       "name": "LLTV_2",
@@ -795,22 +853,6 @@
             ]
         }
     ],
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-//直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-"lives": [
-    {
-      "name": "IPTV",
-      "type": 0,
-      "playerType": 1,
-      "url": "./avlive.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10
-    }
-],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
