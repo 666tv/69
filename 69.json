@@ -10,7 +10,7 @@
 "sites":[
 
     {
-      "key": "番号api9.com",
+      "key": "番号",
       "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
       "type": 1,
       "style": {
@@ -40,7 +40,7 @@
       "ext": "./mov/js/36直播[密].js"
     },
     {
-      "key": "lltv_iKun",
+      "key": "iKun",
       "name": "🔞iKun",
       "type": 1,
       "api": "https://www.ikunzy.com/api.php/provide/vod/",
@@ -55,7 +55,7 @@
     },
     {
       "key": "JKun",
-      "name": "🔞JKun",
+      "name": "🔞jKun",
       "type": 1,
       "api": "https://www.jkzyuan.cc/api.php/provide/vod",
       //"api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -120,9 +120,9 @@
     },
     {
       "key": "laosebizy.com-高天流云9918",
-      "name": "🔞老色逼",
+      "name": "🔞老色比",
       "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
