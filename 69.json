@@ -91,12 +91,12 @@
     },
     {
       "key": "XMVideo-公子",
-      "name":"🔞熊猫",
+      "name": "🔞熊猫",
       "type": 3,
       "api": "csp_XMVideo",
-      "jar": "./jar/182.jar",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/182.jar"
     },
     {
       "key": "红桃-公子",
