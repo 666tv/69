@@ -245,50 +245,6 @@
             "搜索url": "https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
       }
     },
-  /*{
-      "key": "csp_xBPQ_tt-公子",
-      "name": "🔞天天综合&1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./mov/json/天天综合.json"
-    },
-    {
-      "key": "csp_xBPQ_ttyd-公子",
-      "name": "🔞天天综合&2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./mov/json/天天综合移动.json"
-    },
-    {
-      "key":"csp_xBPQ_天天直播-公子",
-      "name":"🔞天天直播&1",
-      "type":3,
-      "api":"csp_xBPQ",
-      "jar":"./jar/xb.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext": "./mov/json/天天直播.json"
-    },
-    {
-      "key":"csp_xBPQ_天天直播移动-公子",
-      "name":"🔞天天直播&2",
-      "type":3,
-      "api":"csp_xBPQ",
-      "jar":"./jar/xb.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext": "./mov/json/天天直播移动.json"
-    },*/
     {
       "key": "hipy_js_采集之王[合]2",
       "name": "🔞采王成人集",
@@ -1045,46 +1001,6 @@
         "分类值": "9&1&4&2&12&3&7&6&8&10&11"
       }
     },
-  /*{
-      "key":"csp_黄瓜TV",
-      "name":"🔞黄瓜TV",
-      "type":3,
-      "playerType": 2,
-      "api":"csp_xBPQ",
-      "jar":"./jar/xb.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{"主页url":"https://qtjspkfsqf.xyz:33666/index.html",
-      "直接播放":"1",
-      "分类":"日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075",
-      "标题":"class=\"vodname\"&&</div>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+pic-text text-right\">&&</b>",
-      "链接前缀":"https://qtjspkfsqf.xyz:33666","链接后缀":"",
-      "分类url":"https://qtjspkfsqf.xyz:33666/vod/list.html?type_id={cateId}&page={catePg}"}
-    },
-    {
-      "key":"csp_hwbl",
-      "name":"🔞网黄爆料",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "jar":"./jar/Screenshot_20230817_116304.jpg",
-      "ext":{"直接播放":"1","分类":"自拍偷拍$139#\u56fd\u4ea7\u4f20\u5a92$158#91\u4ed3\u5e93$246#\u53e6\u7c7b\u4ed3\u5e93$327# \u7279\u8272\u4ed3\u5e93$316#\u7cbe\u54c1\u8d44\u6e90$161#\u4e2d\u6587\u5b57\u5e55$176#\u5927\u4f17\u7cbe \u54c1$164#\u756a\u53f7\u5927\u5168$165#\u5bcc\u4e8c\u4ee3\u533a$166#\u70ed\u95e8\u89c6\u9891$177# \u4f26\u7406\u4f5c\u54c1$109#91\u7cbe\u9009$376#自慰系列$145",
-      "搜索url":"https://kdf21jq-79dei-bs.hwblgo15.buzz/search/{wd}","图片":"< img src=\"&&\"","链接":"href=\"/info/&&\"",
-      "链接前缀":"https://kdf21jq-79dei-bs.hwblgo15.buzz/play/","分类url":"https://kdf21jq-79dei-bs.hwblgo15.buzz/type/{cateId}/{catePg}"}
-    },
-    {
-      "key": "*菲菲资源",
-      "name": "🔞CK在线",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
-    },*/
     {
       "key": "*91麻豆",
       "name": "🔞91麻豆",
