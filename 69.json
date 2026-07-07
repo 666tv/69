@@ -10,12 +10,27 @@
 "sites":[
 
     {
-      "key": "155-公子-高天流云9918",
-      "name": "👇长按主页刷新资源•首次加载较慢•推荐电信网络",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
+      "key":"高清xxxx黑料-公子",
+      "name":"👇长按主页刷新资源•首次加载较慢•推荐电信网络",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"发布地址": "https://www.51heiliaofulishe.com",
+          "主页url": "https://www.51heiliaofulishe.com/label/sort999?ck=",
+          "数组": "class=\"item-box\">&&</a",
+          "图片": "src=\"&&\"",
+          "副标题": "<!-- <small>&&</small> -->",
+          "简介": "description\" content=\"&&|全站免费",
+          "链接": "https://www.51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
+          "搜索模式": "1",
+          "搜索url": "https://www.51heiliaofulishe.com/s/page/{pg}/wd/{wd}/",
+          "分类数组": "<a&&/a",
+          "分类标题": ">&&<",
+          "分类ID": "/t/&&/",
+          "分类url": "https://www.51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"
+       }
     },
     {
       "key":"drpy_js_色色-公子",
@@ -35,6 +50,14 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mov/js/36直播[密].js"
+    },
+    {
+      "key": "155-公子-高天流云9918",
+      "name": "🔞155",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "iKun",
@@ -157,29 +180,6 @@
       },
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1
-    },
-    {
-      "key":"高清xxxx黑料-公子",
-      "name":"🔞51黑料",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{"发布地址": "https://www.51heiliaofulishe.com",
-          "主页url": "https://www.51heiliaofulishe.com/label/sort999?ck=",
-          "数组": "class=\"item-box\">&&</a",
-          "图片": "src=\"&&\"",
-          "副标题": "<!-- <small>&&</small> -->",
-          "简介": "description\" content=\"&&|全站免费",
-          "链接": "https://www.51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
-          "搜索模式": "1",
-          "搜索url": "https://www.51heiliaofulishe.com/s/page/{pg}/wd/{wd}/",
-          "分类数组": "<a&&/a",
-          "分类标题": ">&&<",
-          "分类ID": "/t/&&/",
-          "分类url": "https://www.51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"
-       }
     },
     {
       "key":"火车36小时-公子",
